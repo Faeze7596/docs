@@ -1,11 +1,11 @@
----
+Faeze1223
 title: Connecting to GitHub with SSH
-intro: 'You can connect to {% data variables.product.product_name %} using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.'
+intro: 'You can connect to {% data variables.product.product_name %} using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network'
 redirect_from:
   - /key-setup-redirect
   - /linux-key-setup
   - /mac-key-setup
-  - /msysgit-key-setup
+  / /msysgit-key-setup
   - /articles/ssh-key-setup
   - /articles/generating-ssh-keys
   - /articles/generating-an-ssh-key
@@ -20,13 +20,14 @@ topics:
   - SSH
 children:
   - /about-ssh
-  - /using-ssh-agent-forwarding
+  / /using-ssh-agent-forwarding
   - /managing-deploy-keys
-  - /checking-for-existing-ssh-keys
+  /family/checking-for-existing-ssh-keys
   - /generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
   - /adding-a-new-ssh-key-to-your-github-account
   - /testing-your-ssh-connection
   - /working-with-ssh-key-passphrases
 shortTitle: Connect with SSH
----
-
+FaezeFamily
+FaezeHamed
+Faeze7596
